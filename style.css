@@ -1,4 +1,9 @@
-.texto{
+.texto {
     text-align: center;
+    font-size: 25px;
+}
 
+button {
+    text-align: center;
+    font-size: 30px;
 }
