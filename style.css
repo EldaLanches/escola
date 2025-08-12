@@ -8,17 +8,20 @@ button {
     font-size: 20px;
     background-color: #a5dd65;
 }
+
 a:hover {
-  color: rgb(0, 0, 0);
-  text-decoration: none; /* Remove o sublinhado */
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    /* Remove o sublinhado */
 }
 
 a {
-  color: rgb(0, 81, 255); /* Cor padrão dos links */
+    color: rgb(0, 81, 255);
+    /* Cor padrão dos links */
 }
 
 a:active {
-  color: rgb(0, 255, 0);
+    color: rgb(0, 255, 0);
 }
 
 body {
@@ -27,7 +30,7 @@ body {
 
 }
 
-img{
+img {
     width: 180px;
     height: 190px;
     border-radius: 10px;
@@ -35,7 +38,7 @@ img{
     text-align: center;
 }
 
-.nomes{
+.nomes {
     text-align: center;
     font-size: 20px;
     background-color: #a5dd65;
@@ -43,9 +46,9 @@ img{
 }
 
 .titulo {
-            background-color: #a5dd65;
-            text-align: center;
-            padding: 50px;
-            margin: 0px;
-            font-size-adjust: 100;
-        }
+    background-color: #a5dd65;
+    text-align: center;
+    padding: 50px;
+    margin: 0px;
+    font-size-adjust: 100;
+}
