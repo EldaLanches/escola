@@ -13,6 +13,10 @@ a:hover {
   text-decoration: none; /* Remove o sublinhado */
 }
 
+a {
+  color: blue; /* Cor padrão dos links */
+}
+
 a:active {
   color: rgb(0, 255, 0);
 }
