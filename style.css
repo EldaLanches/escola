@@ -10,3 +10,10 @@ button {
 }
 a:hover {
   color: rgb(0, 0, 0);
+}
+
+header {
+    background: #e6fdcf;
+    padding: 20px 0;
+
+}
