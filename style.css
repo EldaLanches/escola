@@ -9,3 +9,5 @@ button {
     background-color: #a5dd65;
     color: rgb(102, 255, 0);
 }
+a:hover {
+  color: rgb(17, 0, 255);
