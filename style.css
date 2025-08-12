@@ -41,3 +41,11 @@ img{
     background-color: #a5dd65;
 
 }
+
+.titulo {
+            background-color: #a5dd65;
+            text-align: center;
+            padding: 50px;
+            margin: 0px;
+            font-size-adjust: 100;
+        }
