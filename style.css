@@ -14,7 +14,7 @@ a:hover {
 }
 
 a {
-  color: blue; /* Cor padrão dos links */
+  color: rgb(12, 156, 24); /* Cor padrão dos links */
 }
 
 a:active {
