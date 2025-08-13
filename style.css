@@ -11,13 +11,11 @@ button {
 
 a:hover {
     color: rgb(0, 0, 0);
-    text-decoration: none;
-    /* Remove o sublinhado */
+    text-decoration: none;  /* Remove o sublinhado */
 }
 
 a {
-    color: rgb(0, 81, 255);
-    /* Cor padrão dos links */
+    color: rgb(0, 81, 255);  /* Cor padrão dos links */
 }
 
 a:active {
@@ -35,8 +33,6 @@ img {
     height: 190px;
     border-radius: 10px;
     object-fit: cover;
-    display: flex;
-    justify-content: space-around;
 
 }
 
