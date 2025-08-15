@@ -7,6 +7,7 @@ button {
     text-align: center;
     font-size: 20px;
     background-color: #a5dd65;
+    padding: 10px 30px;
 }
 
 a:hover {
@@ -15,7 +16,7 @@ a:hover {
 }
 
 a {
-    color: rgb(0, 81, 255);  /* Cor padrão dos links */
+    color: rgb(62, 73, 0);  /* Cor padrão dos links */
 }
 
 a:active {
